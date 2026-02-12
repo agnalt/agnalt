@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agnalt. I'm a doctoral research fellow at SFI Visual Intelligence in Tromsø, Norway.
+- 👋 Hi, I’m @agnalt. I'm a computer scientist and doctoral research fellow in Tromsø, Norway.
 - 👀 I’m interested in deep learning, computer vision, medical imaging, and language models.
 
 <!---
